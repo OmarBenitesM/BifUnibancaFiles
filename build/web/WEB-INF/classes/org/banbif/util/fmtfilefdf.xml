@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+  <entry key="param0">[Data Transfer File Description]</entry>
+  <entry key="param1">FieldCount=1</entry>
+  <entry key="param2">FileType=1</entry>
+  <entry key="param3">Version=2</entry>
+  <entry key="param4">[Options]</entry>
+  <entry key="param5">DateFormat=1</entry>
+  <entry key="param6">DateSep=1</entry>
+  <entry key="param7">DcmlSep=1</entry>
+  <entry key="param8">TimeFormat=1</entry>
+  <entry key="param9">TimeSep=1</entry>
+  <entry key="param10">[F0001]</entry>
+  <entry key="param11">Length=</entry>
+  <entry key="param12">Name=CTRAMA</entry>
+  <entry key="param13">Type=1</entry>
+</properties>

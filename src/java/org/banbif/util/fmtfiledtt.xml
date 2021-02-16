@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+  <entry key="param0">[DataTransferToAS400]</entry>
+  <entry key="param1">Version=2.0</entry>
+  <entry key="param2">[HostInfo]</entry>
+  <entry key="param3">CrtOpt=2</entry>
+  <entry key="param4">Database=*SYSBAS</entry>
+  <entry key="param5">FRFFile=ZOBENITEZ/</entry>
+  <entry key="param6">FileText=</entry>
+  <entry key="param7">HostFile=ZOBENITEZ/</entry>
+  <entry key="param8">HostFileType=1</entry>
+  <entry key="param9">HostName=SISTEMA2</entry>
+  <entry key="param10">MbrText=</entry>
+  <entry key="param11">ObjAuth=2</entry>
+  <entry key="param12">RecLen=92</entry>
+  <entry key="param13">[ClientInfo]</entry>
+  <entry key="param14">ConvType=0</entry>
+  <entry key="param15">FDFFile=C:\Unibanca\Dtt\</entry>
+  <entry key="param16">PCFile=C:\Unibanca\Bif\</entry>
+  <entry key="param17">PCFileType=1</entry>
+  <entry key="param18">SendExtraSheets=63</entry>
+  <entry key="param19">UseFDF=1</entry>
+  <entry key="param20">[Properties]</entry>
+  <entry key="param21">AllowNumericsInChar=0</entry>
+  <entry key="param22">AutoClose=1</entry>
+  <entry key="param23">AutoRun=1</entry>
+  <entry key="param24">Check4Untrans=0</entry>
+  <entry key="param25">Convert65535=0</entry>
+  <entry key="param26">ConvertExcelDateTime=0</entry>
+  <entry key="param27">ConvertTabs=0</entry>
+  <entry key="param28">DisSysName=0</entry>
+  <entry key="param29">DispLongSchemaName=1</entry>
+  <entry key="param30">Notify=1</entry>
+  <entry key="param31">ShowWarnings=31</entry>
+  <entry key="param32">UseCompression=1</entry>
+  <entry key="param33">UseSSL=2</entry>
+  <entry key="param34">UserOption=0</entry>
+</properties>
